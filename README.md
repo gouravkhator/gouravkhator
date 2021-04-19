@@ -1,6 +1,8 @@
 # Hey there, its Gourav 👋 from Web Dev World 🌎
 
-**Web Dev World 🌎 inculcates in me a passion in doing web development and a thurst in learning new every day.**  
+**Web Dev World 🌎 inculcates in me a passion in doing web development and a thurst in learning new every day.** 
+
+**I wish to work on the Web Spec.**
 *It helps me become a contributor to this great community ✨*
 
 **Please Visit [My Portfolio Website](https://gouravkhator.github.io/).**
@@ -22,7 +24,7 @@
 
 ## [Bookly](https://github.com/gouravkhator/Bookly)
 * Created an open library for users by users.
-* This allowed users to create, edit and delete authors. And also to create, edit books published by the authors.
+* This allows users to create, edit and delete authors and their published books.
 * NodeJS was used for backend and EJS as frontend templating library.
 * Website hosted at Heroku : https://booklys.herokuapp.com/
 
