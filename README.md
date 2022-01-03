@@ -5,7 +5,7 @@
 **I wish to work on the Web Spec.**
 *It helps me become a contributor to this great community ✨*
 
-**Please Visit [My Portfolio Website](https://gouravkhator.github.io/).**
+**Please Visit my [Portfolio site](https://gouravkhator.github.io/)**
 
 # My Precious Projects
 
@@ -36,9 +36,9 @@
 - 📝 I would love to work on JAM Stack.
 - 💬 Ask me about NodeJS, Backend technologies and some frontend stuffs.
 
-# Reach me At
+# Reach me out At
 
-* [![Linkedin Badge](https://img.shields.io/badge/-Gourav_Khator-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gourav-khator-b2a483163/)](https://www.linkedin.com/in/gourav-khator-b2a483163/)
+* [![Linkedin Badge](https://img.shields.io/badge/-Gourav_Khator-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gouravkhator/)](https://www.linkedin.com/in/gouravkhator/)
 * [![Codechef Badge](https://img.shields.io/badge/-Gourav_Khator-brown?style=flat-circle&logo=Codechef&logoColor=white&link=https://www.codechef.com/users/gourav_khator)](https://www.codechef.com/users/gourav_khator)
 * [![Twitter Badge](https://img.shields.io/badge/-Gourav_Khator-darkgreen?style=flat-circle&logo=Twitter&logoColor=white&link=https://twitter.com/_techgo)](https://twitter.com/_techgo)
 
