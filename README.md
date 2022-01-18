@@ -1,40 +1,53 @@
-# Hey there, its Gourav 👋 from Web Dev World 🌎
+# Hey there, its Gourav 👋 from the Land of Scripts, namely JavaScript 🌎
 
-**Web Dev World 🌎 inculcates in me a passion in doing web development and a thurst in learning new every day.** 
+**The Scripty Land 🌎 inculcates in me, a passion to do web dev. It drives a thurst in me, to keep exploring new islands every day.** 
 
 **I wish to work on the Web Spec.**
 *It helps me become a contributor to this great community ✨*
 
-**Please Visit my [Portfolio site](https://gouravkhator.github.io/)**
+**Please Visit my [Portfolio site](https://gouravkhator.github.io/)**.
+
+**Hey Recruiters, kindly look into my [resume](https://drive.google.com/file/d/1LheHuKCc8MaftpwWwMSkPOGGJjhoAMa_/view?usp=sharing) too.**
+
+# My Future Gonna-Be Precious Gems
+
+## [Stran - P2P Video Calling | Connecting with New Faces](https://github.com/gouravkhator/stran)
+
+* **In progress**
+* Implementing a Video Calling Peer-to-Peer Decentralised Application
+* Using Hardhat - An Ethereum Framework and React Native.
+* This Privacy-focused App can help users connect with new faces, commonly known by the name of strangers.
 
 # My Precious Projects
 
-## [Guddu Collection](https://github.com/gouravkhator/guddu-collection)  
+## [Guddu Collection - Men and Women Fashion Wear](https://github.com/gouravkhator/guddu-collection)  
 * Developed a progressive webapp for our shop named "Guddu Collection", showcasing Fashion wear for Men and Women.
 * Used Firebase and ReactJS to create this webapp.
 * No backend was used and all authentication was handled by Firebase and ReactJS components.
 * This PWA works offline too, which was made possible by service workers.
-* Website hosted at Netlify : https://guddu-collection.netlify.app/
+* Website hosted on Netlify : https://guddu-collection.netlify.app/
 
-## [Ebooks-go-app](https://github.com/gouravkhator/Ebooks-go-app)  
+## [So, does my portfolio come under precious zones??](https://github.com/gouravkhator/gouravkhator.github.io)
+
+* Designed a portfolio, enchanting my actions, showcasing my skills and precious projects.
+• Used straight Vanilla JavaScript, HTML and SCSS - A CSS Framework.
+• Dark mode integrated, with its purest dark aura.
+* TODO in here: implement LitElement to maximize the platform's utility. Using LitElement, we can have blogs section.
+* Website hosted on github itself: https://gouravkhator.github.io/
+
+## [Ebooks-go-app - Pay and Shop Ebooks](https://github.com/gouravkhator/Ebooks-go-app)  
 * Developed a webapp for authenticated users to purchase ebooks using Credit cards.
 * Used Stripe API for payment integration.
 * NodeJS was used for backend and EJS as frontend templating library.
-* Website hosted at Heroku : https://ebooks-goapp.herokuapp.com/
-
-## [Bookly](https://github.com/gouravkhator/Bookly)
-* Created an open library for users by users.
-* This allows users to create, edit and delete authors and their published books.
-* NodeJS was used for backend and EJS as frontend templating library.
-* Website hosted at Heroku : https://booklys.herokuapp.com/
-
+* Website hosted on Heroku : https://ebooks-goapp.herokuapp.com/
 
 ## These are some of my knowhows : 
 
-- 🔭 I’m currently working on ReactJS and Firebase.
-- 🌱 I’m currently learning newer concepts on ReactJS, Firebase and TypeScript.
-- 📝 I would love to work on JAM Stack.
-- 💬 Ask me about NodeJS, Backend technologies and some frontend stuffs.
+- 🔭 I’m currently working on Blockchain.
+- 🌱 I’m currently learning newer concepts on IDFS, React-Native, Solidity and more.
+- 📝 I would love to discuss on Backend JavaScript, to toss it on a coffee with Jake and Surma.
+- 🔥 I would also like to work on LitElement in my future gems.
+- 💬 Ask me about NodeJS, Backend technologies and the geeky JavaScript.
 
 # Reach me out At
 
