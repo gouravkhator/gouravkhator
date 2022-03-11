@@ -1,4 +1,9 @@
-# Hey there, its Gourav 👋 from the Land of Scripts, namely JavaScript 🌎
+# Hey there, its Gourav 👋 from the Scripty Land, popularly JavaScript 🌎
+
+<!-- Just some HTML for centering my GIF -->
+<p align="center">
+  <img src="javascript-meme.gif" width=450 height=360/>
+</p>
 
 **The Scripty Land 🌎 inculcates in me, a passion to do web dev. It drives a thurst in me, to keep exploring new islands every day.** 
 
@@ -15,7 +20,7 @@
 
 * **In progress**
 * Implementing a Video Calling Peer-to-Peer Decentralised Application
-* Using Hardhat - An Ethereum Framework and React Native.
+* Using Hardhat - An Ethereum Framework and client-side PreactJS framework.
 * This Privacy-focused App can help users connect with new faces, commonly known by the name of strangers.
 
 # My Precious Projects
@@ -50,7 +55,7 @@
 - 💬 Ask me about NodeJS, Backend technologies and the geeky JavaScript, and I will love to discuss on those.
 - ❤️‍🔥 I have some passion for **CyberSecurity** and some low level **Application security** and **PenTesting**, but yet to do the hands-on.
 
-# Reach me out At
+# Reach me out @
 
 * [![Linkedin Badge](https://img.shields.io/badge/-Gourav_Khator-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gouravkhator/)](https://www.linkedin.com/in/gouravkhator/)
 * [![Codechef Badge](https://img.shields.io/badge/-Gourav_Khator-brown?style=flat-circle&logo=Codechef&logoColor=white&link=https://www.codechef.com/users/gourav_khator)](https://www.codechef.com/users/gourav_khator)
