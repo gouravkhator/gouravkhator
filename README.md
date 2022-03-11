@@ -44,17 +44,18 @@
 ## These are some of my knowhows : 
 
 - 🔭 I’m currently working on Blockchain.
-- 🌱 I’m currently learning newer concepts on IDFS, React-Native, Solidity and more.
-- 📝 I would love to discuss on Backend JavaScript, to toss it on a coffee with Jake and Surma.
-- 🔥 I would also like to work on LitElement in my future gems.
-- 💬 Ask me about NodeJS, Backend technologies and the geeky JavaScript.
+- 🌱 I’m currently learning newer concepts on IDFS, Solidity and more.
+- 📝 I would love to discuss on **Backend JavaScript**, to toss it on a coffee with Jake and Surma.
+- 🔥 I would also like to work on ***LitElement*** in my future gem projects.
+- 💬 Ask me about NodeJS, Backend technologies and the geeky JavaScript, and I will love to discuss on those.
+- ❤️‍🔥 I have some passion for **CyberSecurity** and some low level **Application security** and **PenTesting**, but yet to do the hands-on.
 
 # Reach me out At
 
 * [![Linkedin Badge](https://img.shields.io/badge/-Gourav_Khator-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gouravkhator/)](https://www.linkedin.com/in/gouravkhator/)
 * [![Codechef Badge](https://img.shields.io/badge/-Gourav_Khator-brown?style=flat-circle&logo=Codechef&logoColor=white&link=https://www.codechef.com/users/gourav_khator)](https://www.codechef.com/users/gourav_khator)
-* [![Twitter Badge](https://img.shields.io/badge/-Gourav_Khator-darkgreen?style=flat-circle&logo=Twitter&logoColor=white&link=https://twitter.com/_techgo)](https://twitter.com/_techgo)
+* [![Twitter Badge](https://img.shields.io/badge/-Gourav_Khator-darkgreen?style=flat-circle&logo=Twitter&logoColor=white&link=https://twitter.com/_gouravkhator)](https://twitter.com/_gouravkhator)
 
-## Also do *follow* me and *star* ⭐ my repositories in [Github](https://github.com/gouravkhator)
+## Do *follow* me and *star* ⭐ my repositories in [Github](https://github.com/gouravkhator)
 
-*Would Love* ❤️ *to receive feedbacks and pull requests on my repos.*
+*Would Love* ❤️ *to receive any kind of feedbacks and pull requests on my repos.*
