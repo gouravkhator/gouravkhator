@@ -1,57 +1,21 @@
 # Hey there, its Gourav 👋, a Backend enthusiast, with passion to dive into low-level development
 
 [comment]: < > "This whole text inside the double quotes, is a comment"
-[comment]: < > "We can add style tag and style the whole layout of this markdown.."
+[comment]: < > "Github does not allow style tags or style attributes in html tags, or else we could add style tag and style the whole layout of this markdown.."
 
-<style>
-/* These styles are automatically added to the markdown default styles */
-body{
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-}
+> ### **"Every idea 💡 has some drive 🔥 to let you learn, work, explore and earn".**
 
-h1{
-  border: 2px solid blue;
-  border-radius: 10px;
-  padding: 10px;
-  text-shadow: 1.5px 1px 2px;
-  box-shadow: 7px 8px 5px lightblue;
-}
+![Gourav's GitHub stats](https://github-readme-stats.vercel.app/api?username=gouravkhator&show_icons=true&include_all_commits=true&count_private=true&theme=gotham)
 
-h2{
-  border: 0.5px solid;
-  padding: 10px;
-  margin: 10px;
-  box-shadow: 2px 3px;
-}
+[comment]: < > "Hiding Jupyter Notebook, Java, EJS, C, SCSS in the top languages list"
 
-blockquote {
-  background: #ffedc4;
-  color: #2e2b26;
-  font-weight: bolder;
-  border-left: 10px solid #e0a009;
-  margin: 1.5em 10px;
-  padding: 0.5em 10px;
-  quotes: "\201C""\201D""\2018""\2019";
-}
+[![Top Languages Worked on](https://github-readme-stats.vercel.app/api/top-langs/?username=gouravkhator&hide=jupyter%20notebook,java,ejs,c,scss&layout=compact&langs_count=8&custom_title=Top%20Languages%20Worked%20On&include_all_commits=true&count_private=true&theme=gotham)](https://github.com/gouravkhator/github-readme-stats)
 
-blockquote:before {
-  color: #1c1402;
-  content: open-quote;
-  font-size: 4em;
-  line-height: 0.1em;
-  margin-right: 0.25em;
-  vertical-align: -0.4em;
-}
+## **Github Trophies**
 
-blockquote p {
-  display: inline;
-}
+[![Gourav's Github Trophies](https://github-profile-trophy.vercel.app/?username=gouravkhator&no-frame=true&no-bg=true&theme=nord)](https://github.com/gouravkhator/github-profile-trophy)
 
-</style>
-
-> "Every idea 💡 has some drive 🔥 to let you learn, work, explore and earn".
-
-## Briefings about Me:
+## MySelf in Brief
 
 [comment]: < > "Adding h3 html tags below, so that the points are larger than the normal size"
 
@@ -67,11 +31,11 @@ blockquote p {
 
 ---
 
-# My Future Gonna-Be Projects
+# Upcoming Projects
 
-> Currently, this bucket list is empty, but working on some ideas, to keep this list fulfilling.
+> ### **Currently, this list is empty, but I am working on some ideas, to keep this list active.**
 
-# My Precious Projects
+# Precious Projects Worked On
 
 ## [Stran - P2P Video Calling | Connecting with New Faces](https://github.com/gouravkhator/stran)
 
@@ -95,24 +59,28 @@ blockquote p {
 - Integrated Stripe API for Payment Gateway.
 - Hosted the web-app on Render: [booknutz](https://booknutz.onrender.com/)!
 
+### **Checkout more of my repositories [here](https://github.com/gouravkhator?tab=repositories).**
+
+---
+
 # Know More @bout Me
 
 ## You would mostly get to know about me as below:
 
-- <h3>🔭 I’m currently working on Rust desktop apps.</h3>
-- <h3>🌱 I’m currently learning newer concepts of Rust.</h3>
+- <h3>🔭 I’m currently working on <b>Rust desktop apps.</b></h3>
+- <h3>🌱 I’m currently learning newer concepts of <b>Rust.</b></h3>
 - <h3>❤️‍🔥 I have passion for the <b>Low-Level Development</b> and the <em><b>thrill</b></em> to work on the popular open source repos sooner, for the same.</h3>
 - <h3>💬 I would love to discuss on <b>Backend JavaScript</b>, as well as some nasty topics of the Web standards..</h3>
-- <h3>My main idols in this web dev journey are <a href="https://github.com/jakearchibald">Jake Archibald</a> and <a href="https://github.com/surma">Surma Das</a>..<h3>
+- <h3>My main idols in this web development journey are <a href="https://github.com/jakearchibald"><b>Jake Archibald</b></a> and <a href="https://github.com/surma"><b>Surma Das</b></a>..<h3>
 
-## Reach me out @
+## **Reach me out @**
 
 [![Linkedin Badge](https://img.shields.io/badge/-Gourav_Khator-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gouravkhator/)](https://www.linkedin.com/in/gouravkhator/)
 [![Codechef Badge](https://img.shields.io/badge/-Gourav_Khator-brown?style=flat-circle&logo=Codechef&logoColor=white&link=https://www.codechef.com/users/gourav_khator)](https://www.codechef.com/users/gourav_khator)
 [![Twitter Badge](https://img.shields.io/badge/-Gourav_Khator-darkgreen?style=flat-circle&logo=Twitter&logoColor=white&link=https://twitter.com/_gouravkhator)](https://twitter.com/_gouravkhator)
 
-## Thank you so much for studying the real ME.. 😊
+## Thank you so much for understanding the real ME.. 😊
 
-### Do _follow_ me and _star_ ⭐ my repositories on [Github](https://github.com/gouravkhator)
+### Don't forget to _follow_ me on github and other social sites, and if you liked my work, please _star_ ⭐ my repositories [here](https://github.com/gouravkhator).
 
-Would **love ❤️** to receive any kind of constructive feedbacks and pull requests on my repos.
+I would **love ❤️** to receive constructive feedbacks and PRs for my repos.
